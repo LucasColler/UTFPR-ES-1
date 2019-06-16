@@ -1,2 +1,5 @@
 # UTFPR-ES-1
-Meu repositório do primeiro período de Eng. de Software.
+Este repositório será utilizado para organizar meus estudos no primeiro período do curso de Engenharia de Software na Universidde Tecnológica Federal do Paraná - Campus de Cornélio Procópio.
+
+## DICIPLINAS
+
