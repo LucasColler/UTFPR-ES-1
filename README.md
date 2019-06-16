@@ -12,7 +12,7 @@ Este repositório será utilizado para organizar meus estudos no primeiro perío
 
 Horário | Segunda | Terça | Quarta | Quinta | Sexta |
  :****: | :*****: | :***: | :****: | :****: | :***: |
-N1      |
+N1      | Introdução |       |
 N2      |
 N3      |
 N4      |
