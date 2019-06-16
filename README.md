@@ -10,10 +10,10 @@ Este repositório será utilizado para organizar meus estudos no primeiro perío
 
 ### HORÁRIOS
 
-Horário | Segunda | Terça | Quarta | Quinta | Sexta |
- :****: | :*****: | :***: | :****: | :****: | :***: |
-N1      | Introdução |       |
-N2      |
-N3      |
-N4      |
-N5      |
+Horário | Segunda       | Terça         | Quarta        | Quinta        | Sexta         |
+ :----: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+N1      | Introdução    | Algoritimos   | -             | Laboratório   | -             |
+N2      | Introdução    | Algoritimos   | Introdução    | Laboratório   | Lógica        |
+N3      | Introdução    | Algoritimos   | Introdução    | Laboratório   | Lógica        |
+N4      | Algoritimos   | Laboratório   | Lógica        | Matemática    | Matemática    |
+N5      | Algoritimos   | Laboratório   | Lógica        | Matemática    | Matemática    |
