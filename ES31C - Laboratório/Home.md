@@ -1,3 +1,3 @@
-#ES31C - Laboratório de Informática
-* Professor: Francisco Pereira Junior.
+# ES31C - Laboratório de Informática
+Professor: Francisco Pereira Junior.
 
