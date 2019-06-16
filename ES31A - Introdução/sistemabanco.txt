@@ -1,0 +1,88 @@
+#include<stdio.h>
+#include<string.h>
+
+struct poupança{
+	char nome[100];
+	int nconta;
+	float saldo;
+};
+
+struct corrente{
+	struct debito var;
+	float limite;
+	
+};
+
+//Declaração dos vetores de armazenamento das contas.
+struct poupaça pou[51];
+struct corrente cor[51];
+
+//Função para abertura de contas.
+int criarconta(){
+  int escolha = 0;
+  int i = 0;
+  int num = 0;
+  int cont = 0;
+  int numeroconta = 1;
+  
+  //Laço com opções para criação de contas.
+  for(cont = 0;cont<101 || n==3;){
+  prtinf("ABERTURA DE CONTAS");
+  printf(" 1 - Conta Poupança")
+  printf(" 2 - Conta Corrente")
+  printf(" 3 - Voltar ao menu principal")
+  printf("Escolha uma opção:");
+  scanf("%d", &escolha);
+  
+  //Cadastro de conta poupança.
+  if(escolha==1){
+    print("");
+    scanf("%s", &pou[ip].nome);
+    printf("");
+    pou[ic].nconta=numeroconta;
+    pou[ip].saldo=0;
+      
+    ip++; //Armazena a posição do vetor das contas poupança.
+  }
+  
+  //Cadastro de conta corrente.
+  if(escolha==2){
+    print("");
+    scanf("%s", &cor[ic].nome);
+    printf("");
+    cor[ic].saldo=0;
+    cor[ic].limite=500;
+    cor[ic].nconta=numeroconta;
+    
+    numeroconta++;//designando o número de cada conta, começando de 1 até o limite de 100.
+    
+    ic++; //Armazena a posição do vetor das contas corrente.  
+  }
+}
+
+int main(){
+	credito vet[512];
+	debito var vet[512];
+  char usu[500];
+  int n=100
+  while(n--){
+  printf("");
+  
+  //Menu do usuarío.
+  printf("-------------- SISTEMA BANCÁRIO --------------\n");
+  printf("----------------------------------------------\n");
+  printf("-            01 - Criar uma conta.           -\n");
+  printf("-          02 - Consultar uma conta.         -\n");
+  printf("-           03 - Excluir uma conta.          -\n");
+  printf("-        04 - Listar todas as contas.        -\n");
+  printf("-             05 - Efetuar saque.            -\n");
+  printf("-           06 - Efetuar depósito.           -\n");
+  printf("----------------------------------------------\n");
+  printf("Escolha uma das opções: ");
+  
+  
+  
+  }
+  
+  return 0;
+}
