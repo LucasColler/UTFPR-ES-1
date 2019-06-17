@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Ler número
+//Ler nÃºmero
 int leitura() {
 	int n = 0;
 	while (1) {
