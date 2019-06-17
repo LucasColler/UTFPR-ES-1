@@ -1,0 +1,23 @@
+7ª LISTA DE EXERCÍCIOS - LUCAS H S COLLER (2145294)
+
+adp(A,D,P) :-
+    aluno(A),
+    feminino(A),
+    estuda(A,D),
+    ministra(P,D).
+
+mne(A) :-
+    aluno(A),
+    \+(estuda(A,D)).
+
+dpj(D) :-
+    ministra(jose,D).
+
+pqa(P,D) :-
+    prof(P),
+    estuda(P,D).
+
+% 1A) adp(A,D,P),format('Aluna:~w Disc: ~w Prof: ~w',[A,D,P]),nl, fail.
+% 1B) mne(A), format('\nAluno:~w',[A]),nl, fail.
+% 1C) dpj(D), format('Disc: ~w',[D]),nl, fail.
+% 1D) pqa(P,D), format('Prof-Aluno: ~w Disc: ~w',[P,D]),nl,fail.

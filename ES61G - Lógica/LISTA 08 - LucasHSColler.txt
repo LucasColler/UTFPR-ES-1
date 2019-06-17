@@ -1,0 +1,32 @@
+LISTA 08 - LUCAS H S COLLER
+
+cliSemVenda(COD,NOME) :-
+    cliente(COD,NOME),
+    \+venda(NUM,COD).
+
+prodVendidoCliente(CLIENTE,PRODUTO) :-
+    cliente(CODC,CLIENTE),
+    venda(NVEND,CODC),
+    itens_venda(NVEND,CODP),
+    produto(CODP,PRODUTO,P).
+
+prodAumento(CODP,PRODUTO) :-
+    produto(CODP,PRODUTO,P),
+    aumento(CODP,AUMENTO),
+    AUMENTO > 5,
+    AUMENTO < 20.
+
+prodVenda(NVEND,CODP,PRODUTO) :-
+    itens_venda(NVEND,CODP),
+    produto(CODP,PRODUTO,P).
+
+novosPrecos(CODP,PRODUTO,PA,PN) :-
+    produto(CODP,PRODUTO,PA),
+    aumento(CODP,A),
+    PN is(PA*((A/100)+1)).
+
+%1) cliSemVenda(COD,NOME), format('Cod:~w  Nome:~w',[COD,NOME]),nl,fail.
+%2) prodVendidoCliente(CLIENTE,PRODUTO), format('Cliente:~w Produto:~w',[CLIENTE,PRODUTO]),nl,fail.
+%3) prodAumento(CODP,PRODUTO), format('Cod:~w  Produto:~w',[CODP,PRODUTO]),nl,fail.
+%4) prodVenda(NVEND,CODP,PRODUTO), format('Nº Venda:~w CodProd: ~w Produto:~w',[NVEND,CODP,PRODUTO]),nl,fail.
+%5) novosPrecos(CODP,PRODUTO,PA,PN), format('Cod Prod:~w Produto:~w Preço Antigo:~w Preço Novo:~w',[CODP,PRODUTO,PA,PN]),nl,fail.
