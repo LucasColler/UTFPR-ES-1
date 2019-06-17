@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-//DeclaraÁ„o das Vari·veis Globais.
+//Declara√ß√£o das Vari√°veis Globais.
 int poltronas[10][15];
 int i = 0,
 j = 0,
@@ -17,7 +17,7 @@ bilheteria();
 apurado();
 
 int main() {
-	//DeclaraÁ„o das Vari·veis Locais do Main.
+	//Declara√ß√£o das Vari√°veis Locais do Main.
 	int ocupadas = 0,
 		recebe = 0;
 
@@ -52,7 +52,7 @@ int preenche(void) {
 	return 0;
 }
 
-//Calculando ocupaÁ„o
+//Calculando ocupa√ß√£o
 int ocupacao(void) {
 	int n = 0;
 	for (i = 0; i < 10; i++) {
