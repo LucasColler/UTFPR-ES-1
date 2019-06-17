@@ -4,11 +4,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-//DeclaraÁ„o das Vari·veis Globais.
+//Declara√ß√£o das Vari√°veis Globais.
 float salario[20];
 int i = 0;
 
-//Preenchendo os salarÌos    
+//Preenchendo os salar√≠os    
 int preenche(void) {
 	for (i = 0; i < 20; i++) {
 		printf("Informe um salario: ");
@@ -17,7 +17,7 @@ int preenche(void) {
 	return 0;
 }
 
-//MÈdia Salarial
+//M√©dia Salarial
 float media(void) {
 	float soma = 0;
 	for (i = 0; i < 20; i++) {
@@ -26,7 +26,7 @@ float media(void) {
 	return (soma / 20);
 }
 
-//Salarios abaixo da mÈdia.
+//Salarios abaixo da m√©dia.
 int abaixo(float media) {
 	int n = 0;
 	for (i = 0; i < 20; i++) {
@@ -37,7 +37,7 @@ int abaixo(float media) {
 	return n;
 }
 
-//Ordena os sal·rios em ordem crescente.
+//Ordena os sal√°rios em ordem crescente.
 int ordena(void) {
 	float aux;
 	int ii;
@@ -54,10 +54,10 @@ int ordena(void) {
 }
 
 int main() {
-	//DeclaraÁ„o das Vari·veis Locais do Main.
+	//Declara√ß√£o das Vari√°veis Locais do Main.
 	int vazio = 0;
 	float med = 0;
-	//FunÁ„o que relaciona o rand com a hora.    
+	//Fun√ß√£o que relaciona o rand com a hora.    
 	srand((unsigned)time(NULL));
 
 	vazio = preenche();
