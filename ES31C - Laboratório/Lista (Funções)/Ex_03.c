@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//Declaração das Variáveis Globais.
+//DeclaraÃ§Ã£o das VariÃ¡veis Globais.
 char txt1[100];
 char txt2[100];
 int i = 0;
@@ -61,7 +61,7 @@ int myStrcmp(char *str1, char *str2){
 	return r;
 }
 
-//Copia o contéudo de uma string para outra.
+//Copia o contÃ©udo de uma string para outra.
 int myStrcpy(char *dest, char *orig) {
 	int i = 0;
 
