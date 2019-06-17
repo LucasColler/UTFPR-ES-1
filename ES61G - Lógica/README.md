@@ -1,4 +1,4 @@
-# ES31C - Lógica para Computação.
+# ES61G - Lógica para Computação.
 Professor: José Antonio Gonçalves
 
 ## Principais Conteúdos
