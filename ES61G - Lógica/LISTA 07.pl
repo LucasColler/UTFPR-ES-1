@@ -1,4 +1,4 @@
-%7ª LISTA DE EXERCÍCIOS
+%LISTA 7 - REGRAS PARA CONSULTA A BASE DE FATOS.
 
 prof(jose).
 prof(maria).
