@@ -19,12 +19,12 @@ Professor: Francisco Pereira Junior.
 [Veja meu perfil.](https://www.urionlinejudge.com.br/judge/pt/profile/337238)
 
 #### Lista sobre Funções e Procedimentos.
-* Exercício 1
-* Exercício 2
-* Exercício 3
-* Exercício 4
-* Exercício 5
+* [Exercício 1]()
+* [Exercício 2]()
+* [Exercício 3]()
+* [Exercício 4]()
+* [Exercício 5]()
 
 ### Trabalho Final.
-* Sistema Bancário.
-* Agenda de Telefones.
+* [Sistema Bancário. (Em Desenvolimento)] ()
+* [Agenda de Telefones. (Em Desenvolvimento)] ()
