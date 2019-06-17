@@ -1,2 +1,2 @@
-# ES31C - Lógica para Computação.
+# ES31A - Introdução a Engenharia de Software.
 Professor: Diogo Cezar
