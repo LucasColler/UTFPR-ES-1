@@ -15,7 +15,8 @@ Professor: Francisco Pereira Junior.
 
 ## Alguns Trabalhos
 
-#### Exercícios na plataforma URI. [Veja meu perfil.](https://www.urionlinejudge.com.br/judge/pt/profile/337238)
+#### Exercícios na plataforma URI. 
+* [Veja meu perfil.](https://www.urionlinejudge.com.br/judge/pt/profile/337238)
 
 #### Lista sobre Funções e Procedimentos.
 * [Exercício 1]()
