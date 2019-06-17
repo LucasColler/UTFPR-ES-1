@@ -19,11 +19,11 @@ Professor: Francisco Pereira Junior.
 * [Veja meu perfil.](https://www.urionlinejudge.com.br/judge/pt/profile/337238)
 
 #### Lista sobre Funções e Procedimentos.
-* [Exercício 1]()
-* [Exercício 2]()
-* [Exercício 3]()
-* [Exercício 4]()
-* [Exercício 5]()
+* [Exercício 1](https://github.com/LucasColler/UTFPR-ES-1/blob/master/ES31C%20-%20Laborat%C3%B3rio/Lista(Fun%C3%A7%C3%B5es).md#exerc%C3%ADcio-01)
+* [Exercício 2](https://github.com/LucasColler/UTFPR-ES-1/blob/master/ES31C%20-%20Laborat%C3%B3rio/Lista(Fun%C3%A7%C3%B5es).md#exerc%C3%ADcio-02)
+* [Exercício 3](https://github.com/LucasColler/UTFPR-ES-1/blob/master/ES31C%20-%20Laborat%C3%B3rio/Lista(Fun%C3%A7%C3%B5es).md#exerc%C3%ADcio-03)
+* [Exercício 4](https://github.com/LucasColler/UTFPR-ES-1/blob/master/ES31C%20-%20Laborat%C3%B3rio/Lista(Fun%C3%A7%C3%B5es).md#exerc%C3%ADcio-04)
+* [Exercício 5](https://github.com/LucasColler/UTFPR-ES-1/blob/master/ES31C%20-%20Laborat%C3%B3rio/Lista(Fun%C3%A7%C3%B5es).md#exerc%C3%ADcio-05)
 
 ## Trabalho Final.
 * [Sistema Bancário. (Em Desenvolimento)] ()
