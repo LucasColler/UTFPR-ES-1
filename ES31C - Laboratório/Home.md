@@ -1,7 +1,7 @@
 # ES31C - Laboratório de Informática
 Professor: Francisco Pereira Junior.
 
-## Principais Conteúdos
+### Principais Conteúdos
 
 #### Progamação em Linguagem C.
 * Instruçoes de entrada e saída.
@@ -13,10 +13,9 @@ Professor: Francisco Pereira Junior.
 * Varíaveis Heterogênias.
 
 
-## Alguns Trabalhos
+### Alguns Trabalhos
 
-#### Exercícios na plataforma URI
-[Veja meu perfil.](https://www.urionlinejudge.com.br/judge/pt/profile/337238)
+#### Exercícios na plataforma URI. [Veja meu perfil.](https://www.urionlinejudge.com.br/judge/pt/profile/337238)
 
 #### Lista sobre Funções e Procedimentos.
 * [Exercício 1]()
