@@ -7,7 +7,7 @@ Professora: Adriane Carla Anastacio da Silva.
 * Operadores Relacionais.
 * Estruturas de Decisão e Controle.
 * Função e Procedimento.
-* Registro
+* Registro.
 
 ## Alguns Trabalhos
 
@@ -16,9 +16,9 @@ Professora: Adriane Carla Anastacio da Silva.
 * [Lista 2](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%202)
 * [Lista 3](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%203)
 * [Lista 4](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%204)
-* [Lista 5](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%205)
-* [Lista 6](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%206)
-* [Lista 7](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%207)
+* [Lista 5](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%2005)
+* [Lista 6](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%2006)
+* [Lista 7](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/LISTA%2007)
 
 #### Listas Extras (Não Obrigatórias)
 * [Extra 1](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos/EXTRA%201)
