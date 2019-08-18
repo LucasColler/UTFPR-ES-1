@@ -7,13 +7,3 @@ Este repositório será utilizado para organizar meus estudos no primeiro perío
 * ES31C - [Laboratório de Informática.](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31C%20-%20Laborat%C3%B3rio)
 * ES31D - [Algoritimos.](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES31D%20-%20Algor%C3%ADtimos)
 * ES61G - [Lógica para computação.](https://github.com/LucasColler/UTFPR-ES-1/tree/master/ES61G%20-%20L%C3%B3gica)
-
-### HORÁRIOS
-
-Horário | Segunda       | Terça         | Quarta        | Quinta        | Sexta         |
- :----: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-N1      | Introdução    | Algoritimos   | -             | Laboratório   | -             |
-N2      | Introdução    | Algoritimos   | Introdução    | Laboratório   | Lógica        |
-N3      | Introdução    | Algoritimos   | Introdução    | Laboratório   | Lógica        |
-N4      | Algoritimos   | Laboratório   | Lógica        | Matemática    | Matemática    |
-N5      | Algoritimos   | Laboratório   | Lógica        | Matemática    | Matemática    |
